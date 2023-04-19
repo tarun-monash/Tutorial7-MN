@@ -3,7 +3,7 @@
     "path": "~/Tarun/etc-5513/Tutorial7-MN/TutorialMN.Rmd",
     "project_path": "TutorialMN.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1798840064",
     "contents": "",
     "dirty": false,
     "created": 1681896519076.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "48,0",
-        "scrollLine": "14"
+        "cursorPosition": "53,40",
+        "scrollLine": "31"
     },
     "folds": "",
-    "lastKnownWriteTime": 1681895963,
+    "lastKnownWriteTime": 1681896717,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1681895963,
+    "last_content_update": 1681896717314,
     "read_only": false,
     "read_only_alternatives": []
 }
